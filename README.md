@@ -3,7 +3,7 @@
 ## ⚡ This application is discontinued.
 
 Why:
-* Superseded by something using dear-imgui, GL4.6/GLES3, and GCC.
+* [Superseded by something using dear-imgui, GL4.6/GLES3, and GCC.](https://mudl0rd.github.io/WTFweg/)
 * Would involve extensive rewrites to support modern cores.
 * A relic tbh since it was Windows only.
 
